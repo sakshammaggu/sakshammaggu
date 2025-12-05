@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saksham Maggu</h1>
 
-<h3 align="center">A dedicated builder and lifelong learner, driven to turn complex challenges into elegant, impactful solutions. I'm poised to contribute to innovative projects, build real-world systems, and continuously grow as a **Software Engineer**.</h3>
+<h3 align="center">A dedicated builder and lifelong learner, driven to turn complex challenges into elegant, impactful solutions. I'm poised to contribute to innovative projects, build real-world systems, and continuously grow as a Software Engineer.</h3>
 
 ---
 
