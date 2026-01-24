@@ -24,9 +24,8 @@ Here is an overview of the technologies I work with:
 | Category | Technologies |
 | :--- | :--- |
 | **Programming Languages** | [![Languages](https://skillicons.dev/icons?i=c,cpp,go,js,py,ts&perline=7)](https://skillicons.dev) |
-| **Frontend Frameworks & Libraries** | [![Frontend](https://skillicons.dev/icons?i=react,redux,nextjs,html,css&perline=7)](https://skillicons.dev) |
-| **Styling & UI** | [![Styling](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://skillicons.dev) |
-| **Backend & Runtimes** | [![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) |
+| **Frontend Frameworks & Libraries** | [![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,redux&perline=7)](https://skillicons.dev) |
+| **Backend Framework & Runtimes** | [![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) |
 | **Databases** | [![Databases](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev) |
 | **DevOps & Deployment** | [![DevOps](https://skillicons.dev/icons?i=git,github,vercel)](https://skillicons.dev) |
 | **Tools & Editors** | [![Tools](https://skillicons.dev/icons?i=vscode,notion)](https://skillicons.dev) |
