@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Saksham Maggu</h1>
-
 <h3>Quietly Building...!</h3>
 
 ---
