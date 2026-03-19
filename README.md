@@ -2,7 +2,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with Me.
 
 <p align="left">
   <a href="https://linkedin.com/in/saksham-maggu-25817b26a" target="_blank">
